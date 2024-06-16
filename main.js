@@ -1,4 +1,4 @@
-import { hex_sha256 } from '../libs/sha256-min.mjs';
+import { hex_sha256 } from './sha256-min.mjs';
 
 document.addEventListener('DOMContentLoaded', () => {
     const loginContainer = document.getElementById('login-container');
@@ -117,6 +117,22 @@ document.addEventListener('DOMContentLoaded', () => {
         return idade;
     }
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
